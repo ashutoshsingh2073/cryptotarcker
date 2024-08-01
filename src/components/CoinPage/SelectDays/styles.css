@@ -1,16 +1,9 @@
-<<<<<<< HEAD
+
 .select-days {
     display: flex;
     align-items: center;
     justify-content: flex-start;
     gap: 0.5rem;
     margin-bottom: 1.5rem;
-=======
-.select-days {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 0.5rem;
-    margin-bottom: 1.5rem;
->>>>>>> acdcc3f23962c7027ca2210d4f21ccebb9ba735b
+
   }

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-.info-component h1 {
+nent h1 {
     font-size: 1.2rem;
     margin: 0;
   }
@@ -11,18 +10,4 @@
   .info-p a:hover {
     color: var(--blue) !important;
     transition: all 0.3s;
-=======
-.info-component h1 {
-    font-size: 1.2rem;
-    margin: 0;
-  }
-  
-  .info-p a {
-    text-decoration: underline;
-  }
-  
-  .info-p a:hover {
-    color: var(--blue) !important;
-    transition: all 0.3s;
->>>>>>> acdcc3f23962c7027ca2210d4f21ccebb9ba735b
   }

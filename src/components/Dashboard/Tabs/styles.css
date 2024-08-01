@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .grid-flex {
   display: flex;
   justify-content: center;
@@ -19,26 +18,4 @@
   .list-flex {
     width: 100%;
   }
-=======
-.grid-flex {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  width: 100%;
-  gap: 1rem;
-}
-
-.list-flex {
-  width: 90%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-@media only screen and (max-width: 600px) {
-  .list-flex {
-    width: 100%;
-  }
->>>>>>> acdcc3f23962c7027ca2210d4f21ccebb9ba735b
 }

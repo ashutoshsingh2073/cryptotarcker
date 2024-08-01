@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .select-coins-div {
   display: flex;
   justify-content: flex-start;
@@ -13,20 +13,4 @@
   justify-content: flex-start;
   align-items: center;
   gap: 1rem;
-=======
-.select-coins-div {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 1.5rem;
-  margin: 1.5rem 3rem;
-  flex-wrap: wrap;
-}
-
-.select-flex {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 1rem;
->>>>>>> acdcc3f23962c7027ca2210d4f21ccebb9ba735b
 }
