@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+.loader-background {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--black);
+  position: fixed;
+  z-index: 1000;
+=======
+.loader-background {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--black);
+  position: fixed;
+  z-index: 1000;
+>>>>>>> acdcc3f23962c7027ca2210d4f21ccebb9ba735b
+}
