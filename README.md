@@ -8,10 +8,6 @@ CryptoTrackker is a web application designed to help users easily track and mana
 
 [https://cryptotrackkernew.netlify.app/]
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://cryptotrackkernew.netlify.app/images/crypto-trackker-screenshot.webp" alt="project-screenshot" width="100%" height="100%">
-
 <h2>🧐 Features</h2>
 
 Here are some of the project's best features:
